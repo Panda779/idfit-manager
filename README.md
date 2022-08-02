@@ -1,2 +1,2 @@
 # idfit-manager
-Allows remote management of idfit devices without losing IP configuration.
+Allows remote management of iDFit devices without losing IP configuration.
